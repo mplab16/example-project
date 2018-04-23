@@ -6,3 +6,4 @@ javascript
 c++
 rust
 perl
+groovy
